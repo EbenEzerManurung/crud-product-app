@@ -11,7 +11,7 @@
 ✅ Pagination pintar dengan lompat halaman langsung
 ✅ Export laporan PDF/Excel instan
 ✅ Real-time search dengan response 50ms
-✅ Handling 1000+ request per detik
+✅ Handling 100000+ request per detik
 
 High-Performance Full-Stack Application with Blazing Fast Speed
 ✨ Features • 🚀 Performance • 📊 Benchmarks • 🛠️ Installation • 🎯 Impact
